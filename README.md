@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtiqurCode
+- 👋 Hi, I’m <i>Md Atiqur<i>
 - 👀 I’m interested in Coding & code
 - 🌱 I’m currently learning php ^ Java
 - 💞️ I’m looking to collaborate on Live Work
