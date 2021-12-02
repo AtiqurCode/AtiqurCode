@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <i>Md Atiqur<i>
+- 👋 Hi, I’m <h4>Md Atiqur</h4>
 - 👀 I’m interested in Coding & code
 - 🌱 I’m currently learning php ^ Java
 - 💞️ I’m looking to collaborate on Live Work
