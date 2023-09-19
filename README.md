@@ -10,7 +10,7 @@
 </p>
 
 
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<p> Don't forget to get some apple </p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://itconquest.com">ITConquest</a>.</li>
