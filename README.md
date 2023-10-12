@@ -31,8 +31,8 @@
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p> -->
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="25" height="25" />
