@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Md Atiqur Rahman</h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.itconquest.com/">Itconquest</a></strong> based in 🇨🇦 Canada. I am working on some projects, learning a couple of new frameworks & programs, and trying to increase communication/connection all over the world.</p>
+<p>I'm currently working as a software engineer at <strong><a href="https://www.itconquest.com/">Itconquest</a></strong> based in 🇨🇦 Canada. I am working on some projects, learning a couple of new frameworks & programs, and trying to increase communication/connection all over the world.</p>
 <p>
 <!--     <a href="https://medium.com/@serbis">
         <img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge">
