@@ -14,7 +14,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://itconquest.com">ITConquest</a>.</li>
-<li>🧐 Learning about <strong>backend architechtures</strong>, <strong>distributed systems</strong>, <strong>Cross-Platform web & mobile apps</strong> and a bit of <strong>ML</strong>.</li>
+<li>🧐 Learning about <strong>backend architecture</strong>, <strong>distributed systems</strong>, <strong>Cross-Platform web & mobile apps</strong> and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Some of my projects are available on <a href="https://github.com/AtiqurCode">Github</a>.</li>
 <!-- <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
 <li>💬 Ping me about <strong> Laravel, spring boot, security, and cloud stuff</strong>.</li>
