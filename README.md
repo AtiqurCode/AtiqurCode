@@ -50,12 +50,9 @@
 <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="composer" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" /> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" /> -->
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="25" height="25" />
-<!-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" /> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" /> -->
+
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=AtiqurCode&show_icons=true&count_private=true" alt="AtiqurCode" />
-<!-- <p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p> -->
