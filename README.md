@@ -49,6 +49,7 @@
 <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="25" height="25" />
 <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg" alt="android-studio" width="25" height="25" />
 <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="composer" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 
