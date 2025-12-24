@@ -57,4 +57,4 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="25" height="25" />
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=AtiqurCode&show_icons=true&count_private=true" alt="AtiqurCode" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AtiqurCode&show_icons=true&count_private=true" alt="AtiqurCode" /> -->
