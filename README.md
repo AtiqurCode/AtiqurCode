@@ -58,3 +58,5 @@
 
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=AtiqurCode&show_icons=true&count_private=true" alt="AtiqurCode" /> -->
+
+**CV:** https://drive.google.com/drive/folders/1DSIbtiUT9mPGkUwrx_UvirM7UcexZh61?usp=sharing
